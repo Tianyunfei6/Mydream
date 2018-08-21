@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 哈哈哈，这是个简单又深沉的网页
 
 You can use the [editor on GitHub](https://github.com/Tianyunfei6/Mydream/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
